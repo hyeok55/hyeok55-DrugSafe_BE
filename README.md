@@ -1,7 +1,13 @@
 # Backend
 
-Responsibility: Responsible for data processing, business logic processing, and integration with external services of DrugSafe.
-Technology: Google Cloud Engine, Django, REST API
+Responsible for data processing, business logic processing, and integration with external services of DrugSafe.
+
+# Technology
+<img width="584" alt="image" src="https://github.com/hyeok55/hyeok55-DrugSafe_BE/assets/67605795/0054ebcd-0101-40d2-bce3-f0582789c2f8">
+<img width="584" alt="image" src="https://github.com/hyeok55/hyeok55-DrugSafe_BE/assets/67605795/e64a3de7-8804-4325-8b1c-a22f3f915c25">
+<img width="486" alt="image" src="https://github.com/hyeok55/hyeok55-DrugSafe_BE/assets/67605795/113a31d6-0989-4f24-9f0a-3ceb1f7d6ff1">
+
+
 
 ## What is DrugSafe?
 <img width="317" alt="image" src="https://github.com/hyeok55/solution_challenge_2024/assets/67605795/481a7265-2721-4f0c-8cec-b8a4d4445c10">
