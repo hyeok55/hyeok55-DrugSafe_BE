@@ -29,6 +29,6 @@ safeguardian/drug_type/<int:drug_id>
 ### Drug search page
 safeguardian/search/
 
-###Forward to unintended drug case page
+### Forward to unintended drug case page
 safeguardian/unintention/<int:usage_id>
 
