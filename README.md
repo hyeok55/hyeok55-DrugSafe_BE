@@ -3,8 +3,8 @@
 Responsible for data processing, business logic processing, and integration with external services of DrugSafe.
 
 # Technology
-DB - Mysql
-Cloud - Google Cloud Engine
+DB - Mysql </br>
+Cloud - Google Cloud Engine </br>
 Framework - Django
 
 
